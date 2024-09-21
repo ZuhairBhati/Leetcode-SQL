@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/ZuhairBhati/Leetcode-SQL/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/ZuhairBhati/Leetcode-SQL/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/ZuhairBhati/Leetcode-SQL/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ZuhairBhati/Leetcode-SQL/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/ZuhairBhati/Leetcode-SQL/tree/master/0197-rising-temperature) |
